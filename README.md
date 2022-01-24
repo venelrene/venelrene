@@ -37,10 +37,10 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/venelrene/venelrene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelrene&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelrene&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3" />
 </a>
 <a href="https://github.com/venelrene/venelrene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venelrene&show_icons=true&line_height=24&count_private=true&hide=contribs&title_color=ffffff&text_color=c9cacc&icon_color=39d353&bg_color=0d1117" alt="Venel's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venelrene&show_icons=true&line_height=32&count_private=true&hide=contribs&title_color=ffffff&text_color=c9cacc&icon_color=39d353&bg_color=0d1117" alt="Venel's GitHub Stats" />
 </a>
 
 <a href="https://github.com/rubyforgood/human-essentials">
