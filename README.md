@@ -1,5 +1,5 @@
 
-##👋🏾  Hi! I'm [Venel](https://www.linkedin.com/in/venelrene/)
+## 👋🏾  Hi! I'm [Venel](https://www.linkedin.com/in/venelrene/)
 - 👷🏿 🧱‍ 🛠️ I love to **build** things
 - ⚠️️ 💥 💀 Sometimes **break** things
 - ❤️‍🩹 ✅ 👨🏾‍🔧 Occasionally trying **fix** things
