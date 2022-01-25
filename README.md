@@ -1,12 +1,13 @@
-
+<!-- 
 ## 👋🏾  Hi! I'm [Venel](https://www.linkedin.com/in/venelrene/)
 - 👷🏿 🧱‍ 🛠️ I love to **build** things
 - ⚠️️ 💥 💀 Sometimes **break** things
 - ❤️‍🩹 ✅ 👨🏾‍🔧 Occasionally trying **fix** things
 - 🔂 🎶 🎧 always **repeat** the process with _music_
 
-
+ -->
 ## 🔧 Technologies & Tools
+
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
