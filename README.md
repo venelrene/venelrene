@@ -7,7 +7,7 @@
 
  -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <a href="https://github.com/venelrene/venelrene">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venelrene&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3" />
@@ -23,11 +23,11 @@
 
 <a href="https://github.com/graphiti-api/graphiti">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venelrene&repo=graphiti&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
-</a>    
+</a>     -->
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools -->
 
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+<!-- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -52,4 +52,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) -->
